@@ -1,0 +1,821 @@
+[ 2017-09-05T00:00:49+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=273a87f15eecec84d7a28b5291a102c8eea8ac26&timestamp=1504540849&nonce=1042670064&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=2464a297afd17cd55c93bfafbb64631f4b27a325
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-09-05T00:00:53+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=d1bfd8a1d2b7559b46fb4290762e6d2fda278058&timestamp=1504540853&nonce=1442226747&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=82ced61901d3f6e4540e1ab6d364d4349ec2aa2c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2017-09-05T00:04:21+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=d661ab10803ac36ef043d55ed14f368c4bb6ae8e&timestamp=1504541061&nonce=1066542431&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=e0e5c105dac5a9119519c6799056cda9e7dafdf8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-09-05T00:04:26+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=1c5a36d04948be1e14360c253da47dbcf6e27cbd&timestamp=1504541066&nonce=545760249&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=127da819a328fb6af11eb4a107f4bcc6b0d1e58b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-05T00:12:14+08:00 ] 103.95.95.10 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-09-05T00:12:14+08:00 ] 103.95.95.10 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000043s ]
+
+[ 2017-09-05T00:12:29+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=a33a1aeefee33a811f68476fae6678d38ccb7b81&timestamp=1504541549&nonce=1982635355&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=23697baf4ea8e0c9a4e0d45992f402e4eb6cf00e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-09-05T00:12:32+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=8f8a09a981b56f647986363d836a0a7cf53610e2&timestamp=1504541552&nonce=92204057&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=f76b55e4350d52d7b7c1c8ca17b91e3139930966
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-05T00:13:29+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=8e8a52b936c3ae51b11ce4fbebc7c6d3b726490c&timestamp=1504541609&nonce=1723916344&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=2f40d00af2dbb859194009d19c2f175eaeddfb58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-09-05T00:13:33+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=54b3ab3a921e8eef183047cb1a1845112af9ff8b&timestamp=1504541613&nonce=1650699267&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=c61ca9acce9d8787a24998f8cec6156bd9776f83
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2017-09-05T00:14:33+08:00 ] 103.95.95.10 /wx/Index/responseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-09-05T00:14:35+08:00 ] 103.95.95.10 /wx/Index/responseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000040s ]
+
+[ 2017-09-05T00:14:35+08:00 ] 103.95.95.10 /wx/Index/responseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2017-09-05T00:14:40+08:00 ] 103.95.95.10 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000040s ]
+
+[ 2017-09-05T00:14:41+08:00 ] 103.95.95.10 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-09-05T00:14:42+08:00 ] 103.95.95.10 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-09-05T00:15:00+08:00 ] 103.95.95.10 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-05T00:15:05+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=d640a815c61432e641999c27fc9875c33fe90a00&timestamp=1504541705&nonce=1677929587&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=a6ec7bf5528d3605a1a0b013e7d377d935c57805
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000046s ]
+
+[ 2017-09-05T00:15:09+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=11a5f5571a3e07d824668a0d35e731e6cc8b43f8&timestamp=1504541709&nonce=769837212&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=a0fb3eed15a37c239c3b68e241cbbaf8d11d3e9a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2017-09-05T00:20:50+08:00 ] 101.226.233.140 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-09-05T00:30:44+08:00 ] 101.226.233.147 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-09-05T00:31:59+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=f76bd5144f7f802895d5f5b7a49ffa0313f2467b&timestamp=1504542719&nonce=1658096503&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=5fa0447f38499aae26d1d53b304d818061639bd6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-09-05T00:32:01+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=d86980c0898bf58218afdeb7b1b83148a4d908b6&timestamp=1504542722&nonce=1077926957&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=9512dcb0ccf345929455d521e0765b726dc57635
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-05T00:44:07+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=f4fe01283198495cac0cbe3142ab2ec5b5ed29b6&timestamp=1504543447&nonce=190406119&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=d99c34531243d33e7987fd0ef1a376bbb0049867
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-09-05T00:44:10+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=01835dc54ed7be1f18fdf6b51c87d37592e1668e&timestamp=1504543450&nonce=343251570&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=3f797563d6b3ad42ca38e9add4ca7524e584dc65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-09-05T00:45:57+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=582278690c24ed76c6e029a0073028b32e33d01e&timestamp=1504543557&nonce=2021220509&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=7061619e20bb5ac21c9b03cb286a3ed6f32c8d63
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-09-05T00:46:05+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=4ebeaa345b3ed73d766f9d4d21833d7ecd400843&timestamp=1504543565&nonce=4511378&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=66602df5cd44be57a4c4b2f05ade80a51e540ab8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-09-05T00:48:27+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=ae0697db8997589d67aaddbdadbf285314d80750&timestamp=1504543707&nonce=1824268403&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=924c267e3188487adbadc9459e192a068fe7206a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-09-05T00:49:02+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=693fe5a305542730fed069176af047d5c881f342&timestamp=1504543742&nonce=530802874&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=e6024317ff25be0957678b7a7381a7e8ae96a03a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-09-05T00:50:07+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=9dc119b242dbaa0d04912c4ce0d66fa233ef969e&timestamp=1504543808&nonce=1630889499&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=138a60f75784c715b5d907d0e450afea3b1883f2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-09-05T00:50:23+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=b23d08f9a61045b2afd1d597450aa707eb528d77&timestamp=1504543823&nonce=1193975501&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=11aec1128eb49dee461050ddc1b3d6d0d1a0d552
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-09-05T00:50:29+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=da255192ce5afebfe3da53f23cb36cc0455823ba&timestamp=1504543829&nonce=1056343098&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=8aa71bb471e5ca39a7ebf76cf99c359750c8aded
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-09-05T00:54:14+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=cfd92f69ee6da26b198b6dcee4a089ec90e52eeb&timestamp=1504544054&nonce=866987673&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=5247e23bffcb38080f4fdb1f44087ac79c2b0a38
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-09-05T00:54:31+08:00 ] 140.207.54.76 /wx/Index/index.html?signature=b11248ccbdee8e0d6faf754806fbc29a42c357c6&timestamp=1504544071&nonce=521348849&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=08aca052c0fb879f70c3eb638954bc9b32a01517
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-09-05T13:45:40+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=5fa24ed62a09cf1b2cbd2bf08dfa0f69b9aa3daa&timestamp=1504590340&nonce=657032254&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=77e64c668ccf6c3f71cb351c661207fb427c4ac9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2017-09-05T13:45:51+08:00 ] 140.207.54.75 /wx/Index/index.html?signature=7b9ac09dfe3a44e4de7e74f198bde2a9d8ca5a61&timestamp=1504590351&nonce=2289539&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=b529f0ea9c7dcb01bfc06fb08b321b7082575944
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-09-05T19:09:18+08:00 ] 103.95.95.2 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [2] Creating default object from empty value /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-09-05T19:25:07+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=963e73f92c9872ea5ed620409bd05655b080af33&echostr=8382760289819347923&timestamp=1504610707&nonce=3493940138
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-09-05T19:25:35+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=77df8d19ebbb2e7b9786ea3221d1f0bf1351d43c&echostr=7945862966933360559&timestamp=1504610735&nonce=1028969406
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-09-05T19:27:26+08:00 ] 140.207.54.80 /wx/Index/index.html?signature=ed23a866a30a9c7c0196288df6e7e1367315ef25&echostr=7580912794745084639&timestamp=1504610846&nonce=2801675273
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-09-05T19:27:41+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=903620eea6b243616dcb256a890668c443dac6ed&echostr=17133971834081886189&timestamp=1504610861&nonce=1557903333
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-09-05T19:27:46+08:00 ] 140.207.54.80 /wx/Index/index.html?signature=a179f60df5cbae9dc86f655d2f21ba6d8fb762ca&echostr=2447161333813006199&timestamp=1504610866&nonce=3784857787
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-05T19:27:50+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=5eb8db74d7a3ec8a721a01833ff15aa22791c26c&echostr=6030247717614055167&timestamp=1504610871&nonce=3568649596
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-09-05T19:29:38+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=43237b17de45b4b243a16e22c4c8245374b8b3ea&echostr=4572681983175416827&timestamp=1504610978&nonce=285187132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-09-05T19:29:47+08:00 ] 140.207.54.80 /wx/Index/index.html?signature=6e89d0617dade0d694bbe9a5e5eb82783cb6f2e6&echostr=8898629548258537455&timestamp=1504610987&nonce=587408542
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-09-05T19:30:28+08:00 ] 140.207.54.80 /wx/Index/index.html?signature=433cb39e747a9c772715c357b849def19ee681e9&echostr=2820777648373825238&timestamp=1504611028&nonce=2857895900
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-09-05T19:30:30+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=ffb3110e76507519703efc43fb932c211a6c782d&echostr=9562340482448608991&timestamp=1504611031&nonce=2972943
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-09-05T19:30:34+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=0aba12db40dcc96e163a1512b074b7d0ab7bccf2&echostr=6418659494502252538&timestamp=1504611034&nonce=3816182243
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-09-05T19:31:48+08:00 ] 103.95.95.2 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-09-05T19:35:37+08:00 ] 103.95.95.2 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-09-05T19:35:40+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=8afa6d1b7d018ef613bedc4941d1d7b119227f4a&echostr=5331688524229816236&timestamp=1504611340&nonce=1436514951
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-09-05T19:35:50+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=5a8482af8b7d8a93619320b2233c8ab09810765b&echostr=11800710966809627966&timestamp=1504611350&nonce=163784628
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-09-05T19:35:53+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=cd52a6677863633fe215c44373f49b2e7a3632b2&echostr=11342138444705954875&timestamp=1504611353&nonce=2265319007
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-09-05T19:36:00+08:00 ] 140.207.54.80 /wx/Index/index.html?signature=510b613e244c107cf0c9fe7e8c5ef6f7a3c77a8b&echostr=9110319166706859119&timestamp=1504611361&nonce=311388051
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2017-09-05T19:36:03+08:00 ] 140.207.54.79 /wx/Index/index.html?signature=5e6de6d398128ad31979feaa27d082e3d284bed3&echostr=3058285098566598189&timestamp=1504611364&nonce=992711216
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-09-05T19:36:23+08:00 ] 140.207.54.79 /wx/Index/index?signature=d7a77adeb91ced8b9631af6bfb4410294a17dc9e&echostr=3082569072970301119&timestamp=1504611383&nonce=3401306643
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2017-09-05T19:36:26+08:00 ] 140.207.54.79 /wx/Index/index?signature=90152b3ed145fe31fc3e485b50b3e03d1b5fb7ba&echostr=10903209878805786106&timestamp=1504611386&nonce=2075353318
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2017-09-05T19:36:29+08:00 ] 140.207.54.79 /wx/Index/index?signature=7d7dd2a2573ea776e2769aae344cbbf219d89708&echostr=10653371514700664573&timestamp=1504611389&nonce=567084309
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-09-05T19:41:26+08:00 ] 140.207.54.79 /wx/Index/index?signature=661e68be89111217ccf746bfed1177cbe611d6c3&echostr=2893988875028332542&timestamp=1504611686&nonce=2265747569
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-09-05T19:41:30+08:00 ] 140.207.54.79 /wx/Index/index?signature=bf6d78cdcff3f1694112dd98d4013ac0fdceb939&echostr=1043869009473084907&timestamp=1504611690&nonce=870756548
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000045s ]
+
+[ 2017-09-05T19:41:53+08:00 ] 103.95.95.2 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-09-05T19:41:56+08:00 ] 140.207.54.80 /wx/Index/index?signature=95ac7f50dc8c4485740f05c0f6d3984f869bd574&echostr=16199561046464052692&timestamp=1504611716&nonce=2900611870
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2017-09-05T19:42:06+08:00 ] 140.207.54.79 /wx/Index/index?signature=45c4d4d0544c0ced9bd756a68464f58b506944f4&echostr=13512919694008315855&timestamp=1504611727&nonce=2948759489
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-09-05T19:42:10+08:00 ] 140.207.54.79 /wx/Index/index?signature=e44444c7e442eed8706a82e06b4eeca0bed6df25&echostr=3676322815809589207&timestamp=1504611730&nonce=43295643
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-09-05T19:42:45+08:00 ] 140.207.54.80 /wx/index.php?signature=b5fe2e1d9f727e7bc29b744e8b7996b586370b66&echostr=13576529173245063103&timestamp=1504611765&nonce=4046865574
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-09-05T19:44:41+08:00 ] 140.207.54.80 /wx/Index/index?signature=7b2ba580ae922a8999fd49a7fe83ecd1acda93b6&echostr=17428581702895124218&timestamp=1504611882&nonce=810082111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-09-05T19:44:45+08:00 ] 140.207.54.79 /wx/Index/index?signature=e6b7be0ce8401d3d7b71e9b8fbf7e1476483e0f6&echostr=12320511249434463919&timestamp=1504611885&nonce=448215530
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-09-05T19:45:24+08:00 ] 140.207.54.79 /wx/Index/index?signature=5680b0471c79dea11567147480b016e2c3b6769b&echostr=9883754607044116061&timestamp=1504611924&nonce=2913720937
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-09-05T19:45:35+08:00 ] 117.185.27.115 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000046s ]
+
+[ 2017-09-05T21:49:58+08:00 ] 103.95.95.2 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+
