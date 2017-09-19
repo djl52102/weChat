@@ -1,0 +1,2075 @@
+[ 2017-09-18T07:47:16+08:00 ] 140.207.54.76 /wx/Index/index?signature=9947be5bdcecb99f5929e8eadab275b5317cbcca&timestamp=1505692036&nonce=1013603076&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=1d62655cfa84ef72bd941a2974fcf214312803ed
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-09-18T07:47:24+08:00 ] 140.207.54.75 /wx/Index/index?signature=3639e2ef1cf794f53a73abeae67c74c88774c7f9&timestamp=1505692044&nonce=2029130866&openid=o3QdLwsN5TQb6afbhkKY1tNhnnWI&encrypt_type=aes&msg_signature=deb688adda34dca7f0cc0eaf0e9a0de5f4e5be0e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-18T07:51:41+08:00 ] 101.226.125.103 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 84 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Model/IndexModel.class.php 第 42 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Model/IndexModel.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-09-18T21:02:19+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 398 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-09-18T21:02:21+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 398 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-09-18T21:02:21+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 398 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-09-18T21:02:22+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 398 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-09-18T21:03:32+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 398 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2017-09-18T21:03:47+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 398 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-09-18T21:03:48+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 398 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-09-18T21:03:49+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 398 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
+[ 2017-09-18T21:04:45+08:00 ] 103.95.95.12 /wx/Index/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2017-09-18T21:06:43+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 394 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-09-18T21:06:45+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 394 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-09-18T21:06:46+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 394 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000101s ]
+
+[ 2017-09-18T21:07:23+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 394 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000098s ]
+
+[ 2017-09-18T21:07:25+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 394 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2017-09-18T21:09:59+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+
+[ 2017-09-18T21:10:18+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+
+[ 2017-09-18T21:10:21+08:00 ] 103.95.95.12 /wx/Index/getMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+
+[ 2017-09-18T21:11:02+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 385 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000115s ]
+
+[ 2017-09-18T21:11:06+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 385 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-09-18T21:12:28+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-09-18T21:12:29+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-09-18T21:12:47+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-09-18T21:13:04+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 409 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-09-18T21:33:56+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000141s ]
+
+[ 2017-09-18T21:34:20+08:00 ] 140.207.54.75 /wx/Index/index?signature=6bc9e73d622081bbaa4b41810de30b17b848bb39&timestamp=1505741659&nonce=153643653&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-09-18T21:34:32+08:00 ] 140.207.54.75 /wx/Index/index?signature=3c63b6b6056a7a5cadbb23e211d706671a8c7895&timestamp=1505741671&nonce=395434980&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000154s ]
+
+[ 2017-09-18T21:35:03+08:00 ] 140.207.54.75 /wx/Index/index?signature=64b15ef5dcc68bce6bb444e14f14755164a1f866&timestamp=1505741702&nonce=172000362&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-09-18T21:35:07+08:00 ] 140.207.54.75 /wx/Index/index?signature=21ad9d8a4e4b7c7c39a565abf23b1bf01d1fd67b&timestamp=1505741706&nonce=463693982&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-09-18T21:35:10+08:00 ] 140.207.54.75 /wx/Index/index?signature=9567523f1831388b4641f64560d4291410f39d49&timestamp=1505741710&nonce=494015145&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-09-18T21:35:13+08:00 ] 140.207.54.76 /wx/Index/index?signature=bed93ed2a66631db825e18760a91aa38fbb1a346&timestamp=1505741713&nonce=763181323&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2017-09-18T21:44:29+08:00 ] 140.207.54.75 /wx/Index/index?signature=576ff94da3c52eb593bf071dc068b1cfbf6a253b&timestamp=1505742268&nonce=275753867&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-09-18T21:44:40+08:00 ] 140.207.54.75 /wx/Index/index?signature=3350ebcdf6db8e93ce5ef1e3b52ee8fdc2393651&timestamp=1505742279&nonce=1045531406&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-09-18T21:48:27+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000151s ]
+
+[ 2017-09-18T21:48:29+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2017-09-18T21:48:31+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-09-18T21:48:39+08:00 ] 140.207.54.76 /wx/Index/index?signature=3b304134badee203aca376273a58f74d4b92bca2&timestamp=1505742518&nonce=1560863868&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-09-18T21:48:51+08:00 ] 140.207.54.75 /wx/Index/index?signature=1966216db9bbfef9a7b568d9edce0ece57cdf9cf&timestamp=1505742531&nonce=1127706262&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000101s ]
+
+[ 2017-09-18T21:48:56+08:00 ] 140.207.54.75 /wx/Index/index?signature=d3af945963c1c4ea86ca75229f8fa131454bec3f&timestamp=1505742535&nonce=995066124&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-09-18T21:58:38+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2017-09-18T21:58:39+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-09-18T21:58:53+08:00 ] 140.207.54.75 /wx/Index/index?signature=2d07432808f2add2d81e1ea12d38572bd23f667c&timestamp=1505743132&nonce=979768330&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-09-18T21:59:00+08:00 ] 140.207.54.75 /wx/Index/index?signature=b5ae8a2145fc713cc50965a96b3032503c6a3765&timestamp=1505743140&nonce=288559660&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-09-18T22:09:01+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2017-09-18T22:09:03+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2017-09-18T22:09:05+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-09-18T22:09:06+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-09-18T22:09:18+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
+
+[ 2017-09-18T22:09:20+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-09-18T22:09:53+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-09-18T22:09:54+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2017-09-18T22:09:55+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000120s ]
+
+[ 2017-09-18T22:09:56+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
+[ 2017-09-18T22:09:56+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-09-18T22:09:57+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-09-18T22:09:58+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-09-18T22:09:58+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-09-18T22:09:59+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000132s ]
+
+[ 2017-09-18T22:10:00+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2017-09-18T22:10:00+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2017-09-18T22:10:01+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000135s ]
+
+[ 2017-09-18T22:10:02+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000148s ]
+
+[ 2017-09-18T22:10:04+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2017-09-18T22:16:23+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000132s ]
+
+[ 2017-09-18T22:16:25+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2017-09-18T22:16:37+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-09-18T22:16:39+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-09-18T22:18:08+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000156s ]
+
+[ 2017-09-18T22:18:31+08:00 ] 140.207.54.76 /wx/Index/index?signature=0b08e0b348dddf27dc6e82d4de2f1cfd24c452d1&timestamp=1505744310&nonce=1450062597&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-09-18T22:18:42+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000138s ]
+
+[ 2017-09-18T22:18:54+08:00 ] 140.207.54.75 /wx/Index/index?signature=b5c4ba8e287c07e0ec1887ed4b96a4b2bdf6ef85&timestamp=1505744334&nonce=1957941754&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-09-18T22:22:10+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2017-09-18T22:22:11+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000120s ]
+
+[ 2017-09-18T22:22:28+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2017-09-18T22:22:43+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2017-09-18T22:23:52+08:00 ] 103.95.95.12 /wx/Index/SendMsgAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000141s ]
+
+[ 2017-09-18T22:23:54+08:00 ] 140.207.54.80 /wx/Index/index?signature=78ce5672ff0d1f06ce69b5f3192bd5f76806f3aa&timestamp=1505744634&nonce=573350704&openid=of6qAv2LDG2tY1ORet1dGqHvo1rw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-09-18T22:26:56+08:00 ] 103.95.95.12 /wx/Index/getQrLimitCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000151s ]
+
+[ 2017-09-18T22:28:38+08:00 ] 103.95.95.12 /wx/Index/getQrCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2017-09-18T22:29:01+08:00 ] 103.95.95.12 /wx/Index/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000046s ]
+
+[ 2017-09-18T22:29:06+08:00 ] 103.95.95.12 /wx/Index/getQrCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000164s ]
+
+[ 2017-09-18T22:30:44+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000152s ]
+
+[ 2017-09-18T22:31:15+08:00 ] 140.207.54.76 /wx/Index/index?signature=b1090f05fcf8af2d48e6f67440606c9fed02dccf&timestamp=1505745074&nonce=29594420&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-09-18T22:31:28+08:00 ] 140.207.54.76 /wx/Index/index?signature=6c9d7cfac0e3ace3dd2249bbb62eb065df16e13e&timestamp=1505745087&nonce=978757003&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-09-18T22:31:35+08:00 ] 140.207.54.76 /wx/Index/index?signature=886ffbe304df390fd04b61b68060cacf391ffbf8&timestamp=1505745091&nonce=1705232592&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-09-18T22:31:36+08:00 ] 140.207.54.76 /wx/Index/index?signature=137b59f177a681aa753d2bbfc1faf550e1af9b6f&timestamp=1505745095&nonce=642497055&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-09-18T22:32:57+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2017-09-18T22:35:38+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000130s ]
+
+[ 2017-09-18T22:35:40+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-09-18T22:35:50+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2017-09-18T22:37:34+08:00 ] 140.207.54.76 /wx/Index/index?signature=95afec46af87dbc6eaea95665f0a016c1b84b794&timestamp=1505745453&nonce=1178628827&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-09-18T22:37:44+08:00 ] 140.207.54.75 /wx/Index/index?signature=73fff8def956d311a2bf5333f431b29c4b2afb42&timestamp=1505745464&nonce=1704633021&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000110s ]
+
+[ 2017-09-18T22:37:50+08:00 ] 140.207.54.75 /wx/Index/index?signature=f9b46721decf3a7375bd9d99b8fc2f69f8e42a73&timestamp=1505745469&nonce=1643499117&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-09-18T22:38:09+08:00 ] 140.207.54.75 /wx/Index/index?signature=7f1f55f35761743b7a75b52334e2ea6ef804f5e1&timestamp=1505745488&nonce=873222362&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-09-18T22:39:45+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2017-09-18T22:41:03+08:00 ] 103.95.95.12 /wx/Index/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000141s ]
+
+[ 2017-09-18T22:41:52+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-09-18T22:41:55+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2017-09-18T22:42:07+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-09-18T22:43:47+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2017-09-18T22:44:16+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000122s ]
+
+[ 2017-09-18T22:44:19+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2017-09-18T22:44:21+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-09-18T22:44:49+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000138s ]
+
+[ 2017-09-18T22:44:51+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2017-09-18T22:53:43+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000142s ]
+
+[ 2017-09-18T23:05:20+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2017-09-18T23:13:35+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: access_token /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 326 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000133s ]
+
+[ 2017-09-18T23:13:36+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-09-18T23:14:10+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-09-18T23:14:12+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-09-18T23:14:12+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-09-18T23:14:12+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-09-18T23:14:13+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-09-18T23:14:13+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-09-18T23:14:13+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-09-18T23:14:13+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-18T23:14:13+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-09-18T23:14:39+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-09-18T23:14:54+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-09-18T23:14:56+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-09-18T23:15:02+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-09-18T23:15:04+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-18T23:15:19+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: access_token /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 326 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2017-09-18T23:15:26+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-09-18T23:15:48+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-09-18T23:15:50+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-09-18T23:17:05+08:00 ] 140.207.54.75 /wx/Index/index?signature=146445474bac47885437ba73f26b3f434bd76a25&timestamp=1505747825&nonce=327169082&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-09-18T23:17:08+08:00 ] 140.207.54.75 /wx/Index/index?signature=f8b706a4bc59b3c25c122898c43f7ed05d510eb7&timestamp=1505747828&nonce=2109961049&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
+[ 2017-09-18T23:17:14+08:00 ] 140.207.54.76 /wx/Index/index?signature=8c5a54a2dcc2e3e1527b9867928d948a77a30c81&timestamp=1505747833&nonce=1239413558&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-09-18T23:17:18+08:00 ] 140.207.54.76 /wx/Index/index?signature=57af2efee718ec4bbe704740d06051621b4a1508&timestamp=1505747837&nonce=1715165692&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000101s ]
+
+[ 2017-09-18T23:17:18+08:00 ] 117.185.27.113 /wx/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 84 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Model/IndexModel.class.php 第 42 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Model/IndexModel.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-09-18T23:18:39+08:00 ] 140.207.54.76 /wx/Index/index?signature=1f3210badf4647666e4f4987da09c6c0ad2806aa&timestamp=1505747918&nonce=2002746963&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2017-09-18T23:18:45+08:00 ] 140.207.54.75 /wx/Index/index?signature=dad9c2bedd0d46c59f4ef3dab2284ca7fc4b8cc5&timestamp=1505747924&nonce=959245059&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-09-18T23:20:16+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-09-18T23:20:18+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-09-18T23:20:21+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-09-18T23:24:09+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-09-18T23:25:40+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-09-18T23:25:42+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-09-18T23:25:42+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-09-18T23:26:10+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-09-18T23:26:11+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-09-18T23:27:08+08:00 ] 140.207.54.76 /wx/Index/index?signature=6ce131a2a3cf730c040f345a05e91c9fe55e2d40&timestamp=1505748427&nonce=1928149184&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-09-18T23:27:17+08:00 ] 140.207.54.76 /wx/Index/index?signature=babcc3941b3a4b605f49797b9fd518f1d1371fdb&timestamp=1505748436&nonce=340277259&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-09-18T23:27:21+08:00 ] 140.207.54.76 /wx/Index/index?signature=0441eb27629350bb34148770f1e43269a4eaff90&timestamp=1505748440&nonce=477373974&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-09-18T23:33:25+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-09-18T23:34:07+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-18T23:34:08+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-09-18T23:35:19+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-09-18T23:35:23+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-09-18T23:35:51+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-09-18T23:35:52+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-09-18T23:36:11+08:00 ] 140.207.54.75 /wx/Index/index?signature=fee2b51db1aef3ef084b6f43d04bc51a0e7b64d9&timestamp=1505748971&nonce=853954434&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2017-09-18T23:36:19+08:00 ] 140.207.54.76 /wx/Index/index?signature=c31298f6f107dffe3ccdb23e1344e4687bf8f659&timestamp=1505748978&nonce=575006049&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-09-18T23:36:41+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-09-18T23:36:42+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-09-18T23:36:50+08:00 ] 140.207.54.76 /wx/Index/index?signature=5b74b07e444f8bf4ea576f8ca5455271c73cd31c&timestamp=1505749010&nonce=1324159520&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-09-18T23:37:58+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [2] urlencode() expects exactly 1 parameter, 2 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 381 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-09-18T23:38:09+08:00 ] 103.95.95.12 /wx/Index/creatMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2] urlencode() expects exactly 1 parameter, 2 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 381 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2017-09-18T23:38:16+08:00 ] 140.207.54.75 /wx/Index/index?signature=547104b7e02b217b7db7e73f14e505cfc6fd9fea&timestamp=1505749096&nonce=887612511&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-09-18T23:38:24+08:00 ] 140.207.54.75 /wx/Index/index?signature=c8362304ec2caa78db3cc02117e2ff0ea34f890d&timestamp=1505749103&nonce=1229426769&openid=of6qAv9zYCCp_B8POI8LTAvvghWM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+

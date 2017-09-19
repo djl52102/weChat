@@ -1,0 +1,99 @@
+[ 2017-09-17T13:54:46+08:00 ] 123.114.72.47 /wx/Index/SendMsgAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000950s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001021s ]
+
+[ 2017-09-17T13:54:47+08:00 ] 140.207.54.79 /wx/Index/index?signature=52236570fd4450795d72fedb1c5f796fd2ee2af1&timestamp=1505627687&nonce=908584708&openid=of6qAv2LDG2tY1ORet1dGqHvo1rw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-09-17T13:56:55+08:00 ] 123.114.72.47 /wx/Index/SendMsgAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000152s ]
+
+[ 2017-09-17T13:56:57+08:00 ] 140.207.54.80 /wx/Index/index?signature=94ff371fe37ef4c67d92eb15d5e138127c725094&timestamp=1505627816&nonce=1994808584&openid=of6qAv2LDG2tY1ORet1dGqHvo1rw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-09-17T15:46:19+08:00 ] 123.114.72.47 /wx/Index/SendMsgAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [2] Missing argument 3 for Home\Controller\IndexController::http_curl(), called in /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php on line 159 and defined /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8] Undefined variable: params /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 132 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000135s ]
+
+[ 2017-09-17T15:46:25+08:00 ] 123.114.72.47 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: nonce /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 84 行.
+NOTIC: [2] curl_close() expects exactly 1 parameter, 0 given /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 89 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Undefined index: results /data/wwwroot/default/wx/wx/Home/Controller/IndexController.class.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Model/IndexModel.class.php 第 42 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/default/wx/wx/Home/Model/IndexModel.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
